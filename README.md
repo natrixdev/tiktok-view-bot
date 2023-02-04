@@ -20,3 +20,7 @@ Added all files
 Working 
 Update by natrix
 ```
+
+## Credits 
+Thanks to [xtekky](https://github.com/xtekky/)
+TikTok [@natrixdev](https://www.tiktok.com/@natrixdev)
